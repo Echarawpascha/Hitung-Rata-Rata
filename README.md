@@ -1,0 +1,1 @@
+Latihan Python 1 Echara Pascha 
